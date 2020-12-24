@@ -52,6 +52,16 @@ $on-widescreen: 1152px;
   @media screen and (max-width: $device) {
     @content;
   }
+  @media screen and (max-width: $on-desktop) {
+    html {
+      zoom: 2;
+    }
+  }
+  @media screen and (max-width: $on-widescreen) {
+    html {
+      zoom: 2;
+    }
+  }
 }
 
 @mixin relative-font-size($ratio) {
