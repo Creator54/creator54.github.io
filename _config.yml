@@ -4,7 +4,7 @@ description: >- # site description
     Blog about documenting stuff that i learn/learnt.<a href="https://github.com/creator54" target="_blank" rel="noopener">@github</a>.
 lang: en-IN # default lang
 timezone: Asia/Kolkata # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: https://avatars3.githubusercontent.com/u/34543609?s=460&u=34f0f6c3ebc066d7519075e9cd4d8ad893ba7da1&v=4 # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/creator54/creator54.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
