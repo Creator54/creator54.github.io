@@ -7,8 +7,8 @@ This blog uses <a href="https://github.com/piharpi/jekyll-klise" target="_blank"
 Run local server:
 
 ```bash
-$ git clone https://github.com/creio/creio.github.io.git new-site
-$ cd new-site
+$ git clone https://github.com/creator54/creator54.github.io.git new-site
+$ cd creator54.github.io
 $ bundle install
 $ bundle exec jekyll serve
 ```
