@@ -20,7 +20,9 @@ unplug and replug again.
 
 Now you are ready to use adb cmds as per your liking .Eg:
 
+* `adb pull /sdcard/test.mp4`
 * `adb shell screenrecord --verbose /sdcard/test.mp4`
+* `adb shell am start -a android.intent.action.VIEW -d $url`
 
 Enjoy !!
 
